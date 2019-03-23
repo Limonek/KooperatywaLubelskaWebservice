@@ -1,0 +1,1 @@
+Php files that are to be stored on FTP, to provide access to data in our database.
